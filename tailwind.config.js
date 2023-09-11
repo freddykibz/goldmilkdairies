@@ -27,6 +27,7 @@ module.exports = {
         '8xl': ['96px', '106px']
       },
       colors: {
+        "black-100": "#2B2C35",
         'brown-sugar': '#592E15',
         'brown-sugar-light':'#A64A16',
         'brown-sugar-dark':'#A65F37',
